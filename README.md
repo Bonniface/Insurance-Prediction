@@ -1,5 +1,5 @@
 # Insurance-Prediction
-![Img](https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/36/header_66aed506-93a2-43fd-b43b-924aa62784dc.jpeg)
+![Img](https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/36/thumb_66aed506-93a2-43fd-b43b-924aa62784dc.jpeg)
 
 # Description
 This challenge was designed by Data Science Nigeria specifically for the DSN Bootcamp 2018, which takes place 19-24 November 2019. Welcome to the DSN participants!
